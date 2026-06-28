@@ -98,7 +98,7 @@ bash
 python train.py
 
 
-![train](assets/prediction.png)
+![train](assets/train.png)
 ## This will:
 
 1. Read the dataset
