@@ -154,7 +154,7 @@ Through this project I learned:
 
 
 
-## 👨 Author
+##  Author
 Manish Saini
 
 AIML Student | Learning Machine Learning, Deep Learning and LLM Engineering.
