@@ -30,7 +30,7 @@ Save trained model using Joblib
 Predict spam/ham for new emails from the terminal
 
 ##  Project Structure
-
+``` 
 Spam_Email_Detection/
 │
 ├── data/
@@ -52,6 +52,7 @@ Spam_Email_Detection/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ##  Technologies Used
 
