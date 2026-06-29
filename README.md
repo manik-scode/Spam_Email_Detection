@@ -122,6 +122,9 @@ Congratulations! You have won ₹50,000. Click the link below.
 Prediction:
 SPAM
 
+
+![test](assets/test_email.png)
+
 ##  Model Performance
 
 Current Model Performance:
